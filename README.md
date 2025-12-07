@@ -1,7 +1,7 @@
 # Classifying Public Sentiment Toward AI - A Case Study
 
 **Case Study Creator: Eddie Zhang**
-DS 4002 – 001 – 1pm – Fall 2025 - 
+DS 4002 – 001 – 1pm – Fall 2025
 
 ---
 This repository contains the study, deliverables, data, and supplemental materials necessary to complete the Case Study.
