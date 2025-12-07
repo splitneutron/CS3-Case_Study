@@ -9,11 +9,11 @@ This repository contains the study, deliverables, data, and supplemental materia
 
 Important Information
 ---
-There are two PDFs which are the Hook for the case study as well as the Rubric.
+There are two PDFs which are the Hook (CS3 Hook Document.pdf) for the case study as well as the Rubric.
 
 Data
 ---
-The necessary data is located in the "DATA" folder and has cleaned datasets as well to be used for the model.
+The necessary data is located in the "data" folder and has cleaned datasets as well to be used for the model.
 
 Supplemental Materials
 ---
